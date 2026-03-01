@@ -1,20 +1,21 @@
-# Hospital No-Show Prediction – Reducing Missed Appointments with ML
+# Hospital Appointment Analysis & No-Show Prediction – EDA-Driven Insights for Better Care
 
-**Predicting patient no-shows with 82%+ accuracy | Random Forest | Actionable insights for hospitals**
+**Exploratory Data Analysis + ML Prediction | Actionable Reports on Population Health, Operations & No-Show Reduction**
 
-![Project Impact]: output/images 
+![Project Impact]:  images/
 
 **Key Business Value**  
-Helps hospitals **reduce missed appointments**, optimize scheduling, decrease revenue loss and improve patient flow using predictive analytics.
+Empowers hospitals with **data-driven EDA reports** on patient demographics, population health trends, and operational factors to improve attendance, enhance patient care, reduce no-shows, and optimize resources.
 
-## 🚀 Quick Highlights (What Recruiters Care About)
+## 🚀 Quick Highlights
 
-- **Problem Solved**: Built end-to-end ML pipeline to predict patient no-shows (common healthcare challenge)
-- **Model Performance**: Random Forest (n=159 trees) – strong generalization on imbalanced data
-- **Feature Engineering**: Created smart categories (age, distance, wait time) + business rules for consistency
-- **Visualizations**: 10+ clean, publication-ready bar plots saved automatically
-- **Output Deliverables**: Excel dashboard with predictions, risk segmentation (Low/Medium/High), feature importance & high-risk patient list
-- **Technologies**: Python • pandas • scikit-learn • seaborn/matplotlib • joblib • openpyxl
+- **Comprehensive EDA Focus**: In-depth analysis of demographics (age, gender, city type), health conditions (diabetes, hypertension), and operations (scheduling, reminders, weather impact) with visual reports
+- **Population Health Insights**: Reports on disease distributions by age/gender/city to support preventive care and public health strategies
+- **Operational Recommendations**: Suggestions for reducing no-shows via better scheduling, targeted reminders, and addressing factors like wait times or travel barriers
+- **ML Prediction Model**: Random Forest Classifier (n_estimators=159, max_depth=10) for forecasting no-shows with risk segmentation (Low/Medium/High)
+- **Feature Engineering**: Custom categorizations (age bins, distance groups) + domain rules for data consistency
+- **Deliverables**: Visual charts, Excel dashboards, health/population reports, and high-risk patient lists — all structured for easy use
+- **Tech Stack**: Python • pandas • scikit-learn • seaborn • matplotlib • joblib • openpyxl
 
 ## 🎯 Business & Technical Impact
 
@@ -75,3 +76,4 @@ Experiment with XGBoost / LightGBM / neural nets
 Open to opportunities in Data Science, Healthcare Analytics, ML Engineering.
 
 Yany Camuramura
+
