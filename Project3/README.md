@@ -73,4 +73,5 @@ Interactive dashboards with Power Bi or Looker Studio
 Experiment with XGBoost / LightGBM / neural nets
 
 Open to opportunities in Data Science, Healthcare Analytics, ML Engineering.
+
 Yany Camuramura
